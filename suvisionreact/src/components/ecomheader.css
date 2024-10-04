@@ -1,0 +1,10 @@
+#navbar{
+    display:flex !important;
+    flex-wrap: wrap;
+    justify-content: space-around !important;
+    width: 100%;
+
+}
+#formSearch{
+    width: 50%;
+}

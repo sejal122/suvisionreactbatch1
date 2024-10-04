@@ -1,0 +1,18 @@
+#detailsHome{
+    height: 100%;
+    width: 100%;
+    background-color: #fff !important;
+}
+#image{
+    width: 400px;
+    height: 400px;
+}
+#detailsHome{
+    display: flex;
+    /* flex-wrap: wrap; */
+    justify-content: space-around;
+    align-items: center;
+}
+#details{
+    text-align: center;
+}

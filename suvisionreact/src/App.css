@@ -1,0 +1,14 @@
+/* .App{
+    height: 100%;
+    background: linear-gradient(180deg, rgb(236, 193, 128) 0%, rgba(195,162,27,1) 35%, rgba(241,242,225,1) 100%);
+} */
+.amazonBtn{
+    background-color: transparent !important;
+    color: rgb(56, 104, 148) !important;
+
+}
+#Apphome{
+    width: 100%;
+    background: linear-gradient(180deg, rgb(236, 193, 128) 0%, rgba(195,162,27,1) 35%, rgba(241,242,225,1) 100%);
+    height: 100%;
+}
